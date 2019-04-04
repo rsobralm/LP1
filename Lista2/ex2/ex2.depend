@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1553906456 source:c:\users\rafae\onedrive\햞ea de trabalho\lista-2-lp1\ex2\main.cpp
+	<iostream>
+	"IConta.h"
+	"Conta.h"
+	"ContaEspecial.h"
+
+1553903239 source:c:\users\rafae\onedrive\햞ea de trabalho\lista-2-lp1\ex2\src\conta.cpp
+	"Conta.h"
+	<iostream>
+
+1553906381 c:\users\rafae\onedrive\햞ea de trabalho\lista-2-lp1\ex2\include\conta.h
+	<IConta.h>
+	<string>
+
+1553905126 c:\users\rafae\onedrive\햞ea de trabalho\lista-2-lp1\ex2\include\iconta.h
+
+1553906515 source:c:\users\rafae\onedrive\햞ea de trabalho\lista-2-lp1\ex2\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1553906490 c:\users\rafae\onedrive\햞ea de trabalho\lista-2-lp1\ex2\include\contaespecial.h
+	<Conta.h>
+
+1553905125 source:c:\users\rafae\onedrive\햞ea de trabalho\lista-2-lp1\ex2\src\iconta.cpp
+	"IConta.h"
+

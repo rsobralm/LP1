@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1551651575 source:c:\users\rafae\onedrive\documentos\roteiro2-4\main.cpp
+	<iostream>
+	<FiguraGeometrica.h>
+	<Quadrado.h>
+
+1551651105 source:c:\users\rafae\onedrive\documentos\roteiro2-4\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1551651136 c:\users\rafae\onedrive\documentos\roteiro2-4\include\figurageometrica.h
+	<string>
+
+1551651535 source:c:\users\rafae\onedrive\documentos\roteiro2-4\src\quadrado.cpp
+	"Quadrado.h"
+
+1551651535 c:\users\rafae\onedrive\documentos\roteiro2-4\include\quadrado.h
+	<FiguraGeometrica.h>
+
+1551652192 source:c:\users\rafae\onedrive\documentos\roteiro2-4\src\circulo.cpp
+	"Circulo.h"
+
+1551651713 c:\users\rafae\onedrive\documentos\roteiro2-4\include\circulo.h
+	<FiguraGeometrica.h>
+
+1552325760 source:c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-4\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Quadrado.h"
+	"Circulo.h"
+	"Triangulo.h"
+
+1551641310 c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-4\include\figurageometrica.h
+	<string>
+
+1551641310 c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-4\include\quadrado.h
+	<FiguraGeometrica.h>
+
+1551641310 c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-4\include\circulo.h
+	<FiguraGeometrica.h>
+
+1551641310 source:c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-4\src\circulo.cpp
+	"Circulo.h"
+
+1551641310 source:c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-4\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1551641310 source:c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-4\src\quadrado.cpp
+	"Quadrado.h"
+
+1552325658 source:c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-4\src\triangulo.cpp
+	"Triangulo.h"
+	<cmath>
+
+1552325710 c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-4\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1552342762 source:c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-4\src\circulo.cpp
+	<cmath>
+	"Circulo.h"
+
+1551651713 c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-4\include\circulo.h
+	<FiguraGeometrica.h>
+
+1551651136 c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-4\include\figurageometrica.h
+	<string>
+
+1551651105 source:c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-4\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1551651535 source:c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-4\src\quadrado.cpp
+	"Quadrado.h"
+
+1551651535 c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-4\include\quadrado.h
+	<FiguraGeometrica.h>
+
+1552342762 source:c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-4\src\triangulo.cpp
+	"Triangulo.h"
+	<cmath>
+
+1552342762 c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-4\include\triangulo.h
+	"FiguraGeometrica.h"
+

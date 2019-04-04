@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1553989011 source:c:\users\rafae\onedrive\햞ea de trabalho\lista-2-lp1\ex4\main.cpp
+	<iostream>
+	"Medico.h"
+	"Cirurgiao.h"
+
+1553989927 source:c:\users\rafae\onedrive\햞ea de trabalho\lista-2-lp1\ex4\src\medico.cpp
+	"Medico.h"
+
+1553989927 c:\users\rafae\onedrive\햞ea de trabalho\lista-2-lp1\ex4\include\medico.h
+	<string>
+
+1553989927 c:\users\rafae\onedrive\햞ea de trabalho\lista-2-lp1\ex4\include\cirurgiao.h
+	<Medico.h>
+
+1553988902 source:c:\users\rafae\onedrive\햞ea de trabalho\lista-2-lp1\ex4\src\cirurgiao.cpp
+	"Cirurgiao.h"
+	<iostream>
+
+1553989927 source:c:\users\rafae\onedrive\햞ea de trabalho\lista-2-lp1\ex4\src\oftalmologista.cpp
+	"Oftalmologista.h"
+	<iostream>
+
+1553989927 c:\users\rafae\onedrive\햞ea de trabalho\lista-2-lp1\ex4\include\oftalmologista.h
+	<Medico.h>
+
