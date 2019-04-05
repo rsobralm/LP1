@@ -1,6 +1,10 @@
 #ifndef TESTAVALIDANUMERO_H
 #define TESTAVALIDANUMERO_H
 
+#include "ValorAbaixoException.h"
+#include "ValorAcimaException.h"
+#include "ValorMuitoAcimaException.h"
+#include <exception>
 
 class TestaValidaNumero
 {

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1554428409 source:c:\users\rafae\onedrive\햞ea de trabalho\lp1\lista2\ex5\src\testavalidanumero.cpp
+	"TestaValidaNumero.h"
+
+1554428409 c:\users\rafae\onedrive\햞ea de trabalho\lp1\lista2\ex5\include\testavalidanumero.h
+	"ValorAbaixoException.h"
+	"ValorAcimaException.h"
+	"ValorMuitoAcimaException.h"
+	<exception>
+
+1554428409 c:\users\rafae\onedrive\햞ea de trabalho\lp1\lista2\ex5\include\valorabaixoexception.h
+	<exception>
+
+1554428478 c:\users\rafae\onedrive\햞ea de trabalho\lp1\lista2\ex5\include\valoracimaexception.h
+	<exception>
+
+1554428534 c:\users\rafae\onedrive\햞ea de trabalho\lp1\lista2\ex5\include\valormuitoacimaexception.h
+	<exception>
+
+1554428436 source:c:\users\rafae\onedrive\햞ea de trabalho\lp1\lista2\ex5\src\valorabaixoexception.cpp
+
+1554428482 source:c:\users\rafae\onedrive\햞ea de trabalho\lp1\lista2\ex5\src\valoracimaexception.cpp
+
+1554428542 source:c:\users\rafae\onedrive\햞ea de trabalho\lp1\lista2\ex5\src\valormuitoacimaexception.cpp
+
