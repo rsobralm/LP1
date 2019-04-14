@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\rafae\onedrive\햞ea de trabalho\lp1\roteiro3\3\main.cpp
+	<iostream>
+
+1555202810 source:c:\users\rafae\onedrive\햞ea de trabalho\lp1\roteiro3\3\src\conta.cpp
+	"Conta.h"
+	<iostream>
+
+1555104133 c:\users\rafae\onedrive\햞ea de trabalho\lp1\roteiro3\3\include\conta.h
+	<string>
+
+1555202482 source:c:\users\rafae\onedrive\햞ea de trabalho\lp1\roteiro3\3\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1555203299 c:\users\rafae\onedrive\햞ea de trabalho\lp1\roteiro3\3\include\contacorrente.h
+	<Conta.h>
+
+1555202307 source:c:\users\rafae\onedrive\햞ea de trabalho\lp1\roteiro3\3\src\poupanca.cpp
+	"Poupanca.h"
+
+1555201868 c:\users\rafae\onedrive\햞ea de trabalho\lp1\roteiro3\3\include\poupanca.h
+	<Conta.h>
+
+1555202476 source:c:\users\rafae\onedrive\햞ea de trabalho\lp1\roteiro3\3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1555202396 c:\users\rafae\onedrive\햞ea de trabalho\lp1\roteiro3\3\include\contaespecial.h
+	<ContaCorrente.h>
+
