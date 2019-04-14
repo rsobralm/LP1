@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1551569426 source:c:\users\rafae\onedrive\documentos\roteiro2-2\main.cpp
+	<iostream>
+	<Endereco.h>
+
+1551402756 source:c:\users\rafae\onedrive\documentos\roteiro2-2\src\cadastrodepessoas.cpp
+	"CadastroDePessoas.h"
+
+1551402756 c:\users\rafae\onedrive\documentos\roteiro2-2\include\cadastrodepessoas.h
+
+1551571000 source:c:\users\rafae\onedrive\documentos\roteiro2-2\src\pessoa.cpp
+	"Pessoa.h"
+	"Endereco.h"
+
+1551570756 c:\users\rafae\onedrive\documentos\roteiro2-2\include\pessoa.h
+	<string>
+	<Endereco.h>
+
+1551571000 source:c:\users\rafae\onedrive\documentos\roteiro2-2\src\endereco.cpp
+	"Endereco.h"
+
+1551571000 c:\users\rafae\onedrive\documentos\roteiro2-2\include\endereco.h
+	<string>
+
+1551571000 source:c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-2\src\endereco.cpp
+	"Endereco.h"
+
+1551571000 c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-2\include\endereco.h
+	<string>
+
+1551571000 source:c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-2\src\pessoa.cpp
+	"Pessoa.h"
+	"Endereco.h"
+
+1551570756 c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-2\include\pessoa.h
+	<string>
+	<Endereco.h>
+

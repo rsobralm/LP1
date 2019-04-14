@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1551306120 source:c:\users\rafae\onedrive\documentos\teste r2q1\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+	"Pedido.h"
+
+1551306056 c:\users\rafae\onedrive\documentos\teste r2q1\include\mesaderestaurante.h
+	"Pedido.h"
+	<vector>
+
+1551301640 c:\users\rafae\onedrive\documentos\teste r2q1\include\pedido.h
+	<string>
+
+1551304596 source:c:\users\rafae\onedrive\documentos\teste r2q1\src\pedido.cpp
+	"Pedido.h"
+
+1551306120 source:c:\users\rafae\onedrive\documentos\teste r2q1\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+	"MesaDeRestaurante.h"
+
+1551306120 c:\users\rafae\onedrive\documentos\teste r2q1\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+
+1551305917 source:c:\users\rafae\onedrive\documentos\teste r2q1\main.cpp
+	<iostream>
+	"Pedido.h"
+	"MesaDeRestaurante.h"
+	"RestauranteCaseiro.h"
+
+1552329966 source:c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-1\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+	"Pedido.h"
+
+1552329633 c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-1\include\mesaderestaurante.h
+	"Pedido.h"
+	<vector>
+
+1551641310 c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-1\include\pedido.h
+	<string>
+
+1551641310 source:c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-1\src\pedido.cpp
+	"Pedido.h"
+
+1552329730 source:c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-1\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+	"MesaDeRestaurante.h"
+
+1552327951 c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-1\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+
+1552329730 source:c:\users\aluno\downloads\lab-lp1-roteiro-2-master\roteiro2-1\main.cpp
+	<iostream>
+	"Pedido.h"
+	"MesaDeRestaurante.h"
+	"RestauranteCaseiro.h"
+
+1552343437 source:c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-1\main.cpp
+	<iostream>
+	"Pedido.h"
+	"MesaDeRestaurante.h"
+	"RestauranteCaseiro.h"
+
+1551301640 c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-1\include\pedido.h
+	<string>
+
+1552343473 c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-1\include\mesaderestaurante.h
+	"Pedido.h"
+	<vector>
+
+1552343613 c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-1\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+
+1552343216 source:c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-1\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+	"Pedido.h"
+
+1551304596 source:c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-1\src\pedido.cpp
+	"Pedido.h"
+
+1552343351 source:c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-1\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+	"MesaDeRestaurante.h"
+

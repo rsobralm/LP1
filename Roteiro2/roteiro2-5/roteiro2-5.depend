@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\rafae\onedrive\documentos\roteiro2-5\main.cpp
+	<iostream>
+
+1551658751 source:c:\users\rafae\onedrive\documentos\roteiro2-5\src\trabalhador.cpp
+	"Trabalhador.h"
+
+1551658751 c:\users\rafae\onedrive\documentos\roteiro2-5\include\trabalhador.h
+	<string>
+
+1551658533 source:c:\users\rafae\onedrive\documentos\roteiro2-5\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+
+1551658553 c:\users\rafae\onedrive\documentos\roteiro2-5\include\trabalhadorassalariado.h
+	<Trabalhador.h>
+
+1551658339 source:c:\users\rafae\onedrive\documentos\roteiro2-5\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+
+1551658463 c:\users\rafae\onedrive\documentos\roteiro2-5\include\trabalhadorporhora.h
+	<Trabalhador.h>
+
+1551659056 source:c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-5\main.cpp
+	<iostream>
+	"Trabalhador.h"
+	"TrabalhadorAssalariado.h"
+	"TrabalhadorPorHora.h"
+
+1551658751 c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-5\include\trabalhador.h
+	<string>
+
+1551658553 c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-5\include\trabalhadorassalariado.h
+	<Trabalhador.h>
+
+1551658463 c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-5\include\trabalhadorporhora.h
+	<Trabalhador.h>
+
+1551658751 source:c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-5\src\trabalhador.cpp
+	"Trabalhador.h"
+
+1551658533 source:c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-5\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+
+1551658339 source:c:\users\rafae\onedrive\햞ea de trabalho\lab-lp1-roteiro-2\roteiro2-5\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+
