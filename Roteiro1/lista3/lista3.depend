@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1550617953 source:c:\users\rafae\onedrive\documentos\lista3\main.cpp
+	<iostream>
+	"Empregado.h"
+
+1550617953 c:\users\rafae\onedrive\documentos\lista3\include\empregado.h
+	<string>
+
+1550618012 source:c:\users\rafae\onedrive\documentos\lista3\src\empregado.cpp
+	"Empregado.h"
+	<string>
+

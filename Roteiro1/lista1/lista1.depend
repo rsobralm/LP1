@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1550428937 source:c:\users\rafae\onedrive\documentos\lista1\main.cpp
+	<iostream>
+	"Data.h"
+
+1550428822 source:c:\users\rafae\onedrive\documentos\lista1\src\data.cpp
+	"Data.h"
+
+1550425637 c:\users\rafae\onedrive\documentos\lista1\include\data.h
+

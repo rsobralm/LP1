@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1550692590 source:c:\users\rafae\onedrive\documentos\lista6\src\controledepagamentos.cpp
+	"ControleDePagamentos.h"
+
+1550692590 c:\users\rafae\onedrive\documentos\lista6\include\controledepagamentos.h
+	"Pagamento.h"
+
+1550691087 c:\users\rafae\onedrive\documentos\lista6\include\pagamento.h
+	<string>
+
+1550691946 source:c:\users\rafae\onedrive\documentos\lista6\src\pagamento.cpp
+	"Pagamento.h"
+
+1550692691 source:c:\users\rafae\onedrive\documentos\lista6\main.cpp
+	<iostream>
+	"Pagamento.h"
+	"ControleDePagamentos.h"
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1550693660 source:c:\users\rafae\onedrive\documentos\lista5\main.cpp
+	<iostream>
+	"Despesa.h"
+	"ControleDeGastos.h"
+
+1550693305 source:c:\users\rafae\onedrive\documentos\lista5\src\despesa.cpp
+	"Despesa.h"
+
+1550693628 c:\users\rafae\onedrive\documentos\lista5\include\despesa.h
+	<string>
+
+1550693830 source:c:\users\rafae\onedrive\documentos\lista5\src\controledegastos.cpp
+	"ControleDeGastos.h"
+	"Despesa.h"
+
+1550693277 c:\users\rafae\onedrive\documentos\lista5\include\controledegastos.h
+	"Despesa.h"
+

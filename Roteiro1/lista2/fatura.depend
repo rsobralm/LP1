@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1550508353 source:c:\users\rafae\onedrive\documentos\fatura\main.cpp
+	<iostream>
+	"Invoice.h"
+
+1550508098 source:c:\users\rafae\onedrive\documentos\fatura\src\invoice.cpp
+	"Invoice.h"
+
+1550507914 c:\users\rafae\onedrive\documentos\fatura\include\invoice.h
+	<string>
+
