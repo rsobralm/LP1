@@ -1,0 +1,27 @@
+Polimorfismo é a capacidade de algo assumir várias formas. Na programação esse conceito pode ser aplicado em por exmeplo, 
+métodos virtuais que são executados de acordo com a classe do objeto, ou na inicialização de objetos utilizando variaveis de uma superclasse
+possibilitando a criação de um array polimórfico.
+
+Ex:
+
+Class Qualquer{
+	public:
+	virtual void fazAlgo() = 0;
+}
+Class Coisa : public Qualquer
+	public:
+	void fazAlgo() {
+		cout<< "Fazendo\n";
+		}
+
+int main(){
+	Qualquer *objeto;
+	Coisa coisa;
+	objeto = &coisa;
+	objeto->fazAlgo();
+	
+	return 0;
+}
+
+
+	 

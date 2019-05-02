@@ -1,0 +1,11 @@
+1ª Lista de Exercícios
+
+1- Uma classe é um modelo para criação de objetos, uma classe engloba varios objetos com caracteristicas semelhantes,
+Os objetos são instâncias de classe, representando alguma coisa a ser manipulada no programa.
+
+2- O construtor é o primeiro método executado pelo objeto, ele serve para inicializar o objeto, podendo definir valores dos atributos.
+
+3- new é utilizado para alocar dinamicamente a memoria para um objeto. O operador retorna o endereço de memoria de onde o objeto foi colocado.
+
+4- O encapsulamento serve para restringir o acesso aos métodos e atributos de uma classe, fazendo isso minimiza-se a chance de erros do programador,
+que pode-se ver impedido de alterar um atributo que não deveria ser alterado, por exemplo.
